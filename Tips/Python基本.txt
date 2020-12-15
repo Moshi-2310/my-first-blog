@@ -1,0 +1,6 @@
+基本
+https://tutorial.djangogirls.org/ja/python_introduction/
+関数，配列
+https://tutorial.djangogirls.org/ja/python_introduction/
+Webサーバの作成と起動
+https://tutorial.djangogirls.org/ja/django_start_project/
