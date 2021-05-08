@@ -1,0 +1,14 @@
+cd C:\Users\Fumito\djangogirls
+python -m myvenv env
+myvenv\Scripts\activate
+
+manage.py makemigrations blog
+manage.py migrate
+
+
+python manage.py runserver
+
+
+
+
+
