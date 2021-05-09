@@ -9,6 +9,19 @@ manage.py migrate
 python manage.py runserver
 
 
+Django  Moshi-2310 Shi.....2310
+GitHub  Moshi-2310
+PythonAnyWhere  Moshi2310 Moshi2310 Shi.....2310
 
+
+API TOKEN  0c7dffb6262201eeddd8970d64450c14abdd0ea0
+
+
+
+
+git remote add origin https://github.com/Moshi-2310/my-first-blog.git
+git push -u origin master
+
+pa_autoconfigure_django.py --python=3.6 https://github.com/Moshi-2310/my-first-blog.git
 
 
